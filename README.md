@@ -1,4 +1,4 @@
-# GPT-2_ultimate_minimum_effort </br></br>
+# Text Generated Cover Letter with GPT-2 </br></br>
 This was just fun to mess around with... </br></br>
 I don't think it's actually going to write my cover letter...</br></br>
 Used PyTorch and Transformers, the model included Initialization, tokenization, generation, and decoding.</br></br>
